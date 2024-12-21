@@ -12,6 +12,7 @@
     display: flex;
     align-items: center;
     justify-content: space-evenly;
+    width: 1rem;
 }
 
 .nav-logo{
@@ -135,10 +136,12 @@ span{
     height: 40px;
     justify-content: center;
     justify-content: space-evenly;
+    width: 1rem;
 }
 
 .panel-all{
     font-weight: 700;
+    width: 1rem;
 }
 
 .panel-options{
@@ -159,7 +162,7 @@ span{
     display: flex;
     justify-content: center;
     align-items: flex-end;
-    width: 100%
+    width: 1rem;
 }
 
 .hero-msg{
